@@ -2,4 +2,4 @@
 readme.mk
 ## readme
 ### readme
-* a * ** a *
+*a* **a**
